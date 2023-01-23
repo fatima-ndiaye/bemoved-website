@@ -26,7 +26,7 @@ Fully responsive website for a digital marketing agency using HTML and CSS and J
 - Vanilla JS
 
 ## Files and directories
-- index.html : the home page
+- index.html : the homepage
 - about-us.html : the about us page
 - contact.html : the contact page
 - index.css : the css page
