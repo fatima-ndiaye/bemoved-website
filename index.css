@@ -206,7 +206,7 @@ strong
 {
     font-size: 3rem;
     font-weight: 700;
-    background: transparent;
+    background: none;
     border: none;
     color: #BE4925;
     cursor: pointer;
@@ -218,7 +218,7 @@ strong
     font-size: 1.5em;
     margin-left: auto;
     padding: 0.5em;
-    background: transparent;
+    background: none;
     color:#fff;
     border: none;
     cursor: pointer;
