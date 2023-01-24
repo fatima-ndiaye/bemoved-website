@@ -345,6 +345,7 @@ strong
     background-position: right;
     background-blend-mode: overlay;
     background-size: cover;
+    background-repeat: no-repeat;
     color: #fff;
 }
 .hero > * /*everything that is a direct child*/
