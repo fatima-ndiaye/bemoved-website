@@ -16,14 +16,14 @@ Fully responsive website for a digital marketing agency using HTML and CSS and J
 
 ## Links
 
-- Solution URL: [https://github.com/fatima-xs/bemoved-website](https://github.com/fatima-xs/bemoved-website)
-- Live Site URL: [https://bemoved-fatima.netlify.app/](https://bemoved-fatima.netlify.app/)
+- Solution URL: [Github](https://github.com/fatima-xs/bemoved-website)
+- Live Site URL: [Netlify](https://bemoved-fatima.netlify.app/)
 
 ## Built with
 
-- HTML
-- CSS 
-- Vanilla JS
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 
 ## Files and directories
 - index.html : the homepage
@@ -40,8 +40,9 @@ Fully responsive website for a digital marketing agency using HTML and CSS and J
 
 ## Author
 **Fatimata Ndiaye**
-- [Profile](https://github.com/fatima-xs "Fatima Ndiaye") 
-- [Email](mailto:fatimanndiaye@gmail.com?subject=Hi "Hi!")
+
+[![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fatimanndiaye@gmail.com)
+[![Github profile](https://img.shields.io/badge/-Github-343a40?style=flat&logo=github&logoColor=white)](https://github.com/fatima-xs)
 
 
 
