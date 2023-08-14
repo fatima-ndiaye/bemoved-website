@@ -1,7 +1,9 @@
 # BeMoved
+
 Fully responsive website for a digital marketing agency using HTML and CSS and JS
 
 ## Table of contents
+
 - [Screenshots](#screenshots)
 - [Links](#links)
 - [Built with](#built-with)
@@ -10,6 +12,7 @@ Fully responsive website for a digital marketing agency using HTML and CSS and J
 - [Author](#author)
 
 ## Screenshots
+
 ![Homepage](./images/homepage.png)
 ![About Us Page](./images/about-us-page.png)
 ![Contact Us](./images/contact-page.png)
@@ -21,11 +24,12 @@ Fully responsive website for a digital marketing agency using HTML and CSS and J
 
 ## Built with
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 ## Files and directories
+
 - index.html : the homepage
 - about-us.html : the about us page
 - contact.html : the contact page
@@ -34,16 +38,14 @@ Fully responsive website for a digital marketing agency using HTML and CSS and J
 - images : the directory containing the images
 
 ## Installation
+
 - Clone this repository to your desktop
 - Navigate to the top level of the directory
 - Open ./index.html in your browser
 
 ## Author
-**Fatimata Ndiaye**
+
+### Fatimata Ndiaye
 
 [![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fatimanndiaye@gmail.com)
 [![Github profile](https://img.shields.io/badge/-Github-343a40?style=flat&logo=github&logoColor=white)](https://github.com/fatima-xs)
-
-
-
-
